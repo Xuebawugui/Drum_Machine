@@ -10,10 +10,6 @@ A responsive Drum Machine built with React 17 and custom CSS, following the Free
 - Beautiful gradient background and animated button styles
 - Passes all FreeCodeCamp Drum Machine tests
 
-## Demo
-
-![screenshot](./screenshot.png)
-*Add your own screenshot if you like!*
 
 ## Getting Started
 
